@@ -283,10 +283,3 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-<p align="center">
-  Final Year Project — University of the Punjab, Gujranwala Campus<br>
-  Department of Information Technology | Session 2021–2025<br><br>
-  Built with ❤️ using Laravel, MySQL & Bootstrap
-</p>
